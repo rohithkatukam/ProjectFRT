@@ -6,8 +6,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://wonderful-sand-052cea900.2.azurestaticapps.net/
-**project demo video link** - https://youtu.be/ONF2TFodx0Y
+**Project Link** - https://zealous-tree-085529200.2.azurestaticapps.net/index.html
 
 ## Azure technologies used for Project
 
