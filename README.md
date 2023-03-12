@@ -1,5 +1,5 @@
 
-# ✨  Glory Luxe ✨
+# ✨  Dentile ✨
 
 This is a web based application developed for health related based website in india
 
@@ -25,7 +25,8 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-![Screenshot 2022-11-04 182924](https://user-images.githubusercontent.com/116783215/199978305-c83e5671-1656-437e-91a8-b030278a7fe8.png)
+![Screenshot 2022-11-04 182924]![Screenshot (4)](https://user-images.githubusercontent.com/96406298/224549966-a6cbfdff-68d3-4218-9ac3-192271bb32e7.png)
+
 
 
 
@@ -33,21 +34,26 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
-![Screenshot 2022-11-04 183004](https://user-images.githubusercontent.com/116783215/199978451-249d342c-aded-43d9-ad88-defbe17fa333.png)
+![Screenshot 2022-11-04 183004]![Screenshot (4)]![Screenshot (10)](https://user-images.githubusercontent.com/96406298/224550090-ed6c8954-6a82-4d32-8d58-34fb38d1e5fa.png)
+
+
 
 ### Services -
-![Screenshot 2022-11-04 183058](https://user-images.githubusercontent.com/116783215/199978652-153b68b4-d90b-4f2b-b6bb-7edd3eb798bd.png)
+![Screenshot 2022-11-04 183058]![Screenshot (9)](https://user-images.githubusercontent.com/96406298/224550061-50c77c6b-2c85-4cd2-b9ce-0cfe02c8b2a1.png)
+
 
 
 ### Contact us -
-![Screenshot 2022-11-04 183155](https://user-images.githubusercontent.com/116783215/199978830-e41fbaa9-9c16-465f-a202-33c2ac4932d9.png)
+![Screenshot 2022-11-04 183155]![image](https://user-images.githubusercontent.com/96406298/224550131-06723ecd-49a6-4429-a1df-350603a833ca.png)
+
 
 
 ### health bot
 
 
 
-![Screenshot 2022-11-04 182119](https://user-images.githubusercontent.com/116783215/199978144-67d6cf3e-397d-477c-aa8a-dd6d26a4dddd.png)
+![Screenshot 2022-11-04 182119]![Screenshot (12)](https://user-images.githubusercontent.com/96406298/224550180-0e89996a-ac82-4e5d-b7ef-80ebabe443c1.png)
+
 
 
 
