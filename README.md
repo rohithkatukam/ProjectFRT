@@ -7,6 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://zealous-tree-085529200.2.azurestaticapps.net/index.html
+**Project Video Link - https://www.youtube.com/watch?v=TvxYRZBbqT4
 
 ## Azure technologies used for Project
 
